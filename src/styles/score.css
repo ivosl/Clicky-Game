@@ -1,0 +1,9 @@
+h1 {
+    color: red;
+}
+
+.navbar-nav {
+    font-size: 30px;
+    color: white;
+    background-color: blue;
+}
