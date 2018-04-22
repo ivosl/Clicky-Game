@@ -10,7 +10,7 @@ class App extends Component {
     super(props);
     this.state = {
     score: 0,
-    topscore: 0,
+    topscore: 12,
     pictures : characters
   };
 }
