@@ -1,3 +1,4 @@
+//Part of the code was done together with Chetan who was helping me with some React questions
 import React, { Component } from 'react';
 import Score from './components/Score';
 import Cards from './components/Cards';
